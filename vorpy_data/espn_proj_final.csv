@@ -1,0 +1,301 @@
+RANK,NAME,TEAM,VALUE,POS
+1,Mike Trout,LAA,47.00,OF
+2,Jose Altuve,HOU,42.00,2B
+3,Mookie Betts,BOS,42.00,OF
+4,Nolan Arenado,COL,40.00,3B
+5,Kris Bryant,CHC,38.00,3B OF
+6,Paul Goldschmidt,ARI,37.00,1B
+7,Manny Machado,BAL,36.00,3B SS
+8,Josh Donaldson,TOR,35.00,3B
+9,Clayton Kershaw,LAD,34.00,SP
+10,Bryce Harper,WAS,33.00,OF
+11,Miguel Cabrera,DET,33.00,1B
+12,Anthony Rizzo,CHC,32.00,1B
+13,Charlie Blackmon,COL,31.00,OF
+14,Madison Bumgarner,SF,30.00,SP
+15, Trea Turner,WAS,30.00,2B OF
+16, Carlos Correa,HOU,28.00,SS
+17, Max Scherzer,WAS,28.00,SP
+18, Corey Seager,LAD,27.00,SS
+19, Chris Sale,BOS,27.00,SP
+20, Freddie Freeman,ATL,27.00,1B
+21, Joey Votto,CIN,26.00,1B
+22, Francisco Lindor,CLE,26.00,SS
+23, Corey Kluber,CLE,26.00,SP
+24, Starling Marte,PIT,26.00,OF
+25, Noah Syndergaard,NYM,26.00,SP
+26, Xander Bogaerts,BOS,26.00,SS
+27, Edwin Encarnacion,CLE,26.00,1B
+28, Daniel Murphy,WAS,26.00,2B
+29, Brian Dozier,MIN,25.00,2B
+30, Carlos Gonzalez,COL,25.00,OF
+31, Jake Arrieta,CHC,25.00,SP
+32, Robinson Cano,SEA,24.00,2B
+33, Justin Verlander,DET,24.00	,SP
+34, Ryan Braun,MIL,24.00	,OF
+35, Jonathan Villar,MIL,24.00	,SS 3B
+36, Yoenis Cespedes,NYM,24.00	,OF
+37, Jon Lester,CHC,24.00	,SP
+38, Trevor Story,COL,24.00	,SS
+39, George Springer,HOU,23.00	,OF
+40, Christian Yelich,MIA,23.00	,OF
+41, Kyle Seager,SEA,23.00	,3B
+42, Johnny Cueto,SF,23.00	,SP
+43, Jose Abreu,CWS,22.00	,1B
+44, Giancarlo Stanton,MIA,22.00	,OF
+45, Gregory Polanco,PIT,22.00	,OF
+46, Wil Myers,SD,22.00	,1B
+47, Nelson Cruz,SEA,22.00	,OF
+48, Chris Archer,TB,22.00	,SP
+49, Rougned Odor,TEX,22.00	,2B
+50, Yu Darvish,TEX,21.00	,SP
+51, Andrew McCutchen,PIT,21.00	,OF
+52, Adrian Beltre,TEX,21.00	,3B
+53, Billy Hamilton,CIN,21.00	,OF
+54, A.J. Pollock,ARI,21.00	,OF
+55, Carlos Martinez,STL,21.00	,SP
+56, Matt Carpenter,STL,21.00	,1B 2B 3B 
+57, Carlos Carrasco,CLE,20.00	,SP
+58, Justin Upton,DET,20.00	,OF
+59, Buster Posey,SF,20.00	,C
+60, Dee Gordon,MIA,20.00	,2B
+61, Kenley Jansen,LAD,19.00	,RP
+62, J.D. Martinez,DET,19.00	,OF
+63, Ian Kinsler,DET,19.00	,2B
+64, Zach Britton,BAL,19.00	,RP
+65, Stephen Strasburg,WAS,19.00	,SP
+66, Jose Bautista,TOR,19.00	,OF
+67, Jacob deGrom,NYM,19.00	,SP
+68, Aroldis Chapman,NYY,18.00	,RP
+69, Adam Jones,BAL,18.00	,OF
+70, Carlos Santana,CLE,18.00	,1B
+71, DJ LeMahieu,COL,18.00	,2B
+72, Kyle Hendricks,CHC,17.00	,SP
+73, Todd Frazier,CWS,17.00	,3B
+74, Chris Davis,BAL,17.00	,1B
+75, Mark Trumbo,BAL,17.00	,OF
+76, Mark Melancon,SF,17.00	,RP
+77, Hanley Ramirez,BOS,16.00	,1B
+78, Jean Segura,SEA,16.00	,SS 2B
+79, Seung Hwan Oh,STL,16.00	,RP
+80, Kyle Schwarber,CHC,16.00	,OF
+81, Masahiro Tanaka,NYY,16.00	,SP
+82, Alex Bregman,HOU,16.00	,3B
+83, Roberto Osuna,TOR,15.00	,RP
+84, Jose Quintana,CWS,15.00	,SP
+85, Stephen Piscotty,STL,15.00	,OF
+86, Eric Hosmer,KC,15.00	,1B
+87, Gerrit Cole,PIT,14.00	,SP
+88, Dustin Pedroia,BOS,14.00	,2B
+89, Rick Porcello,BOS,14.00	,SP
+90, Wade Davis,CHC,14.00	,RP
+91, Evan Longoria,TB,14.00	,3B
+92, Khris Davis,OAK,14.00	,OF
+93, Matt Kemp,ATL,14.00	,OF
+94, Edwin Diaz,SEA,13.00	,RP
+95, Danny Duffy,KC,13.00	,SP
+96, Jackie Bradley Jr.,BOS,13.00	,OF
+97, Gary Sanchez,NYY,13.00	,C
+98, Anthony Rendon,WAS,13.00	,3B
+99, Kevin Gausman,BAL,13.00	,SP
+100, Julio Teheran,ATL,13.00	,SP
+101, Jose Ramirez,CLE,12.00	,3B OF
+102, Kelvin Herrera,KC,12.00	,RP
+103, Marcus Stroman,TOR,12.00	,SP
+104, Adam Eaton,WAS,12.00	,OF
+105, Kenta Maeda,LAD,12.00	,SP
+106, Jason Kipnis,CLE,12.00	,2B
+107, Danny Salazar,CLE,12.00	,SP
+108, Ken Giles,HOU,12.00	,RP
+109, Marcell Ozuna,MIA,12.00	,OF
+110, Cole Hamels,TEX,11.00	,SP
+111, Lorenzo Cain,KC,11.00	,OF
+112, Aaron Sanchez,TOR,11.00	,SP
+113, Miguel Sano,MIN,11.00	,OF 3B
+114, Craig Kimbrel,BOS,11.00	,RP
+115, Andrew Benintendi,BOS,11.00	,OF
+116, Andrew Miller,CLE,10.00	,RP
+117, Brandon Belt,SF,10.00	,1B
+118, Justin Turner,LAD,10.00	,3B
+119, Albert Pujols,LAA,10.00	,1B
+120, Rich Hill,LAD,9.00	,SP
+121, Jonathan Lucroy,TEX,10.00	,C
+122, Addison Russell,CHC,9.00	,SS
+123, Zack Greinke,ARI,11.00	,SP
+124, Michael Brantley,CLE,9.00	,OF
+125, Jeurys Familia,NYM,9.00	,RP
+126, John Lackey,CHC,9.00	,SP
+127, Michael Fulmer,DET,9.00	,SP
+128, Odubel Herrera,PHI,9.00	,OF
+129, Cody Allen,CLE,9.00	,RP
+130, Adam Duvall,CIN,9.00	,OF
+131, Drew Smyly,SEA,8.00	,SP
+132, Elvis Andrus,TEX,8.00	,SS
+133, Alex Colome,TB,8.00	,RP
+134, Brad Miller,TB,8.00	,SS
+135, Kendrys Morales,TOR,8.00	,1B
+136, Matt Shoemaker,LAA,8.00	,SP
+137, Maikel Franco,PHI,8.00	,3B
+138, Kole Calhoun,LAA,8.00	,OF
+139, Adrian Gonzalez,LAD,8.00	,1B
+140, Lance McCullers,HOU,7.00	,SP
+141, Troy Tulowitzki,TOR,8.00	,SS
+142, Willson Contreras,CHC,7.00	,C
+143, Carlos Gomez,TEX,7.00	,OF
+144, David Robertson,CWS,7.00	,RP
+145, Jake Odorizzi,TB,8.00	,SP
+146, Jay Bruce,NYM,7.00	,OF
+147, J.T. Realmuto,MIA,7.00	,C
+148, Victor Martinez,DET,7.00	,1B
+149, Aledmys Diaz,STL,7.00	,SS
+150, Ian Desmond,COL,7.00	,OF
+151, Jake Lamb,ARI,7.00	,3B
+152, Tanner Roark,WAS,7.00	,SP
+153, Randal Grichuk,STL,6.00	,OF
+154, Dexter Fowler,STL,6.00	,OF
+155, Jeff Samardzija,SF,6.00	,SP
+156, Dellin Betances,NYY,6.00	,RP
+157, Yasmani Grandal,LAD,6.00	,C
+158, Steven Matz,NYM,6.00	,SP
+159, Joc Pederson,LAD,6.00	,OF
+160, Evan Gattis,HOU,6.00	,C
+161, Marco Estrada,TOR,6.00	,SP
+162, Ben Zobrist,CHC,6.00	,2B OF
+163, Dallas Keuchel,HOU,5.00	,SP
+164, Nick Castellanos,DET,6.00	,3B
+165, Eduardo Nunez,SF,6.00	,3B
+166, Byron Buxton,MIN,5.00	,OF
+167, Raisel Iglesias,CIN,5.00	,RP
+168, Curtis Granderson,NYM,5.00	,OF
+169, Felix Hernandez,SEA,6.00	,SP
+170, Mike Napoli,TEX,5.00	,1B
+171, Melky Cabrera,CWS,5.00	,OF
+172, Jon Gray,COL,5.00	,SP
+173, A.J. Ramos,MIA,4.00	,RP
+174, Jacoby Ellsbury,NYY,4.00	,OF
+175, David Price,BOS,11.00	,SP
+176, Starlin Castro,NYY,4.00	,2B
+177, Ender Inciarte,ATL,4.00	,OF
+178, Aaron Nola,PHI,4.00	,SP
+179, Matt Harvey,NYM,4.00	,SP
+180, Francisco Rodriguez,DET,4.00	,RP
+181, Salvador Perez,KC,4.00	,C
+182, Carlos Beltran,HOU,4.00	,OF
+183, James Paxton,SEA,4.00	,SP
+184, Michael Pineda,NYY,4.00	,SP
+185, Dansby Swanson,ATL,4.00	,SS
+186, Jonathan Schoop,BAL,4.00	,2B
+187, Tony Watson,PIT,4.00	,RP
+188, Jose Peraza,CIN,4.00	,SS OF
+189, Mike Moustakas,KC,4.00	,3B
+190, J.A. Happ,TOR,4.00	,SP
+191, Keon Broxton,MIL,3.00	,OF
+192, Logan Forsythe,LAD,3.00	,2B
+193, Jameson Taillon,PIT,3.00	,SP
+194, Javier Baez,CHC,3.00	,2B 3B SS
+195, Kevin Kiermaier,TB,3.00	,OF
+196, Robbie Ray,ARI,3.00	,SP
+197, Russell Martin,TOR,3.00	,C
+198, Sean Manaea,OAK,3.00	,SP
+199, Rajai Davis,OAK,3.00	,OF
+200, Yulieski Gurriel,HOU,3.00	,3B
+201, Adam Wainwright,STL,3.00	,SP
+202, Jim Johnson,ATL,3.00	,RP
+203, Yasmany Tomas,ARI,3.00	,OF
+204, Brian McCann,HOU,3.00	,C
+205, Brandon Crawford,SF,3.00	,SS
+206, Taijuan Walker,ARI,3.00	,SP
+207, Brett Gardner,NYY,3.00	,OF
+208, Marcus Semien,OAK,3.00	,SS
+209, Sonny Gray,OAK,3.00	,SP
+210, Ryon Healy,OAK,3.00	,3B
+211, Carlos Rodon,CWS,4.00	,SP
+212, Eric Thames,MIL,3.00	,OF
+213, Vince Velasquez,PHI,3.00	,SP
+214, Tommy Joseph,PHI,3.00	,1B
+215, Neil Walker,NYM,3.00	,2B
+216, Nomar Mazara,TEX,3.00	,OF
+217, Yasiel Puig,LAD,3.00	,OF
+218, Drew Pomeranz,BOS,3.00	,SP
+219, Eugenio Suarez,CIN,3.00	,3B
+220, Yadier Molina,STL,3.00	,C
+221, David Dahl,COL,3.00	,OF
+222, Matt Moore,SF,3.00	,SP
+223, Sam Dyson,TEX,3.00	,RP
+224, Devon Travis,TOR,3.00	,2B
+225, Domingo Santana,MIL,3.00	,OF
+226, Ivan Nova,PIT,3.00	,SP
+227, Jung Ho Kang,PIT,3.00	,3B
+228, Greg Bird,NYY,1.00	,1B
+229, Anthony DeSclafani,CIN,3.00	,SP
+230, Eduardo Rodriguez,BOS,2.00	,SP
+231, Matt Wieters,WAS,2.00	,C
+232, Manuel Margot,SD,2.00	,OF
+233, Jedd Gyorko,STL,2.00	,2B 3B SS
+234, Hisashi Iwakuma,SEA,2.00	,SP
+235, Brandon Maurer,SD,2.00	,RP
+236, Brandon Phillips,ATL,2.00	,2B
+237, Ian Kennedy,KC,2.00	,SP
+238, C.J. Cron,LAA,3.00	,1B
+239, Welington Castillo,BAL,2.00	,C
+240, Hunter Pence,SF,2.00	,OF
+241, Neftali Feliz,MIL,2.00	,RP
+242, Tim Anderson,CWS,2.00	,SS
+243, Josh Harrison,PIT,2.00	,2B
+244, Julio Urias,LAD,2.00	,SP
+245, Joe Ross,WAS,2.00	,SP
+246, Hector Neris,PHI,2.00	,RP
+247, Jose Reyes,NYM,2.00	,3B
+248, Max Kepler,MIN,2.00	,OF
+249, Gio Gonzalez,WAS,2.00	,SP
+250, Asdrubal Cabrera,NYM,2.00	,SS
+251, Stephen Vogt,OAK,1.00	,C
+252, Jason Heyward,CHC,1.00	,OF
+253, Garrett Richards,LAA,1.00	,SP
+254, David Peralta,ARI,1.00	,OF
+255, Zach Davies,MIL,1.00	,SP
+256, Brandon Drury,ARI,1.00	,3B OF
+257, Didi Gregorius,NYY,3.00	,SS
+258, Adam Ottavino,COL,1.00	,RP
+259, Michael Wacha,STL,1.00	,SP
+260, Addison Reed,NYM,1.00	,RP
+261, Michael Conforto,NYM,1.00	,OF
+262, Orlando Arcia,MIL,1.00	,SS
+263, Ryan Madson,OAK,1.00	,RP
+264, Joe Panik,SF,1.00	,2B
+265, Jharel Cotton,OAK,1.00	,SP
+266, Martin Prado,MIA,1.00	,3B
+267, Justin Bour,MIA,1.00	,1B
+268, Jarrod Dyson,SEA,1.00	,OF
+269, Blake Snell,TB,1.00	,SP
+270, Cesar Hernandez,PHI,1.00	,2B
+271, Yangervis Solarte,SD,1.00	,3B
+272, Mitch Moreland,BOS,1.00	,1B
+273, Mitch Haniger,SEA,1.00	,OF
+274, Alcides Escobar,KC,1.00	,SS
+275, Ben Revere,LAA,1.00	,OF
+276, Josh Bell,PIT,1.00	,1B
+277, Jerad Eickhoff,PHI,1.00	,SP
+278, Mike Zunino,SEA,1.00	,C
+279, Cam Bedrosian,LAA,1.00	,RP
+280, Hunter Renfroe,SD,1.00	,OF
+281, Jason Hammel,KC,1.00	,SP
+282, Francisco Cervelli,PIT,1.00	,C
+283, Josh Reddick,HOU,1.00	,OF
+284, Kevin Pillar,TOR,1.00	,OF
+285, Mike Foltynewicz,ATL,1.00	,SP
+286, Jorge Soler,KC,1.00	,OF
+287, Corey Dickerson,TB,1.00	,OF
+288, Chris Owings,ARI,1.00	,SS
+289, Pedro Alvarez,BAL,1.00	,1B
+290, Chris Tillman,BAL,1.00	,SP
+291, Wilson Ramos,TB,1.00	,C
+292, Pablo Sandoval,BOS,1.00	,3B
+293, Steven Souza Jr.,TB,1.00	,OF
+294, Fernando Rodney,ARI,1.00	,RP
+295, Dylan Bundy,BAL,1.00	,RP
+296, Chris Carter,NYY,1.00	,1B
+297, Tyler Glasnow,PIT,1.00	,SP
+298, Yoan Moncada,CWS,1.00	,3B
+299, Alex Cobb,TB,1.00	,SP
+300, Cameron Maybin,LAA,0.00	,OF
